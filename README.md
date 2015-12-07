@@ -10,6 +10,6 @@ You are not allowed to Short-Sell, so "Sell" actions will be ignored until you h
 
 Four languages are supported JavaScript, C#, Java and Scala. Sample implementations are provided for each language. Instruction for each language can be found under the language folders.
 
-Submit your code by pulling.
+Submit your code by creating a pull request. If you need help with how to create a pull request, fork, clone or any other GitHub related thing there is an awesome help page [here](https://help.github.com/).
 
 Happy Coding!
