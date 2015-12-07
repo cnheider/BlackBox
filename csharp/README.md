@@ -10,7 +10,7 @@ public interface IStrategy
 }
 ```
 
-Set the Unique name and also do that for the dll name of your assmbly
-Run tests to see how good your algorithm is
+Set the Unique name and also do that for the dll name of your assmbly.
+Run tests to see how good your algorithm is.
 Good luck!
 
