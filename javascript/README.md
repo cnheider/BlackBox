@@ -22,5 +22,4 @@ To get it to work you need to have Node 5.0.0 or later installed on your system,
 
 # Adding Algorithms
 
-Simply go to src/algorithms/example.js to see how it's done. Also you need to import the file inside src/application.js exactly how
-it's done for example.js
+Simply go to src/algorithms/example.js to see how it's done. You can copy the example, give it a new name and make sure to update the participant field and you are ready to go. When running the algorithms you will be given basic statistics and the result in the output window at the end for each algorithm.
