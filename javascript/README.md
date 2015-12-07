@@ -1,8 +1,3 @@
-# BlackBox - Javascript
-
-# Architecture
-The goal of the system is to enable others to write awesome trading algorithms
-
 # How to
 
 To get it to work you need to have Node 5.0.0 or later installed on your system, this should also come bundled with Npm 3.3.6 which you will also need.
