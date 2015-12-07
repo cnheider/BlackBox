@@ -10,4 +10,6 @@ You are not allowed to Short-Sell, so "Sell" actions will be ignored until you h
 
 Four languages are supported, JavaScript, C#, Java and Scala. Sample implementations are provided for each language. Instruction for each language can be found under the language folders.
 
-Submit your code by pulling
+Submit your code by pulling.
+
+Happy Coding!
