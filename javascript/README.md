@@ -1,9 +1,3 @@
-# cashflow
-Cashflow is King
-
-# Architecture
-The goal of the system is to simulate a basic price engine and make it possible for traders to write their own algorithms.
-
 # How to
 
 To get it to work you need to have Node 5.0.0 installed on your system, this should also come bundled with Npm 3.3.6 which you will also need.
