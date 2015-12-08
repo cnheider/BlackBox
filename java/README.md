@@ -10,7 +10,6 @@ What is important is that your algorithm is generic enough to handle such change
 Your algorithm decisions doesn't affect the market!
 
 ##sample code
-Code
 ```java
 package dk.danskebank.markets.trading.client;
 
