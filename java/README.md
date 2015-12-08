@@ -11,12 +11,13 @@ Your algorithm decisions doesn't affect the market!
 
 ##sample code
 Code
-  package dk.danskebank.markets.trading.client;
+```java
+package dk.danskebank.markets.trading.client;
 
-  import dk.danskebank.blackbox.client.IClientContract;
-  import dk.danskebank.blackbox.client.TradeAction;
+import dk.danskebank.blackbox.client.IClientContract;
+import dk.danskebank.blackbox.client.TradeAction;
 
-  public class ClientSample implements IClientContract {
+public class ClientSample implements IClientContract {
 
 	@Override 
 	public String getStrategyName() {
@@ -27,6 +28,6 @@ Code
 	public TradeAction tick(double price) {
 		return TradeAction.SELL;   
 	}
-  } 
-
+} 
+```
 In this example and simple algorithm is shown. It's strategy is to always Sell, and the strategy is identified as "Sample".
