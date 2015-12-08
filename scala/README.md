@@ -19,7 +19,7 @@ import dk.danskebank.blackbox.client.TradeAction
 class ClientSample extends IClientContract {
   def getStrategyName(): String = "ScalaSample"
 
-  def tick(x$1: Double): TradeAction = TradeAction.SELL
+  def tick(price: Double): TradeAction = TradeAction.SELL
 
 }
 ```
